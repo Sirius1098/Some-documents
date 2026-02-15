@@ -39,6 +39,10 @@
 [ReZygisk](https://github.com/PerformanC/ReZygisk)
 
 ### LSPosed
-原版[LSPosed](https://github.com/LSPosed/LSPosed)
+[LSPosed](https://github.com/LSPosed/LSPosed)原版
 
 [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
+
+[LSPosed-Irena ](https://github.com/re-zero001/LSPosed-Irena)
+
+[LSPosed-JingMatrix](https://github.com/JingMatrix/LSPosed)
