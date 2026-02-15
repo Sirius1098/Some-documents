@@ -1,4 +1,6 @@
-#玩机资源收集
+# 玩机资源收集
+
+收集整理 Android 玩机领域的常用资源,方便大家快速找到所需工具,持续关注社区动态，不定期更新内容，也欢迎大家分享优质资源，共同完善这份清单。
 
 ---
 
@@ -24,3 +26,19 @@
 [APatch](https://github.com/bmax121/APatch)
 
 [FolkPatch](https://github.com/matsuzaka-yuki/FolkPatch)
+
+---
+
+## 模块
+
+### Zygisk实现
+[Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext)
+
+[NeoZygisk](https://github.com/JingMatrix/NeoZygisk)
+
+[ReZygisk](https://github.com/PerformanC/ReZygisk)
+
+### LSPosed
+原版[LSPosed](https://github.com/LSPosed/LSPosed)
+
+[LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
