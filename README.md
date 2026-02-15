@@ -53,3 +53,13 @@
 [Tricky Store](https://github.com/5ec1cff/TrickyStore)
 
 [Tricky Addon - Update Target List (tk增强) ](https://github.com/KOWX712/Tricky-Addon-Update-Target-List)
+
+[Play Integrity Fix](https://github.com/KOWX712/PlayIntegrityFix)
+
+[Tricky Store OSS (已停更)](https://github.com/beakthoven/TrickyStoreOSS)
+
+[TEESimulator](https://github.com/JingMatrix/TEESimulator)
+
+## XP模块
+
+未完待续
