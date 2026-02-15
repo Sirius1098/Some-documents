@@ -39,10 +39,17 @@
 [ReZygisk](https://github.com/PerformanC/ReZygisk)
 
 ### LSPosed
-[LSPosed](https://github.com/LSPosed/LSPosed)原版
+[LSPosed（原版）](https://github.com/LSPosed/LSPosed)
 
 [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
 
 [LSPosed-Irena ](https://github.com/re-zero001/LSPosed-Irena)
 
 [LSPosed-JingMatrix](https://github.com/JingMatrix/LSPosed)
+
+### 环境相关
+[Shamiko（下载链接）](https://github.com/LSPosed/LSPosed.github.io/releases)
+
+[Tricky Store](https://github.com/5ec1cff/TrickyStore)
+
+[Tricky Addon - Update Target List (tk增强) ](https://github.com/KOWX712/Tricky-Addon-Update-Target-List)
