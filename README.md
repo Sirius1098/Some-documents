@@ -47,6 +47,8 @@
 
 [LSPosed-JingMatrix](https://github.com/JingMatrix/LSPosed)
 
+[ReLSPosed](https://github.com/ThePedroo/ReLSPosed)
+
 ### 环境相关
 [Shamiko（下载链接）](https://github.com/LSPosed/LSPosed.github.io/releases)
 
