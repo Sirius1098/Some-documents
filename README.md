@@ -9,7 +9,7 @@
 ### Magisk
 [Magisk](https://github.com/topjohnwu/Magisk)
 
-[Magisk Alpha](https://github.com/topjohnwu/Magisk)
+[Magisk Alpha](https://github.com/vvb2060/Magisk)
 
 [KitsuneMask（已停更）](https://github.com/1q23lyc45/KitsuneMagisk)
 
